@@ -1,0 +1,677 @@
+[
+  {
+    "company": "Ngân hàng TMCP Hàng Hải Việt Nam (MSB)",
+    "position": "Senior Bridge Software Engineer",
+    "jobLocation": "Hồ Chí Minh",
+    "jobType": "internship",
+    "status": "declined",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2024-01-10T02:56:28Z"
+  },
+  {
+    "company": "Chubb Life Vietnam",
+    "position": "IT - Senior Project Manager",
+    "jobLocation": "Hà Nội",
+    "jobType": "remote",
+    "status": "declined",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2024-02-14T03:17:48Z"
+  },
+  {
+    "company": "DEK TECHNOLOGIES",
+    "position": "HO - Data Lake Developer",
+    "jobLocation": "Hồ Chí Minh",
+    "jobType": "full-time",
+    "status": "pending",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-05-25T18:17:10Z"
+  },
+  {
+    "company": "Cloud Nine Solutions",
+    "position": "Senior Frontend Developer (ReactJS)",
+    "jobLocation": "Đà Nẵng",
+    "jobType": "internship",
+    "status": "pending",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-01-27T03:03:44Z"
+  },
+  {
+    "company": "NGÂN HÀNG Á CHÂU (ACB)",
+    "position": "Senior Bridge Software Engineer",
+    "jobLocation": "Đà Nẵng",
+    "jobType": "part-time",
+    "status": "pending",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-01-03T03:35:37Z"
+  },
+  {
+    "company": "Public Bank Vietnam (PBVN)",
+    "position": "IT Department",
+    "jobLocation": "Hà Nội",
+    "jobType": "full-time",
+    "status": "pending",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-03-04T06:13:45Z"
+  },
+  {
+    "company": "CÔNG TY TNHH POSCO DX VIỆT NAM",
+    "position": "Senior Frontend Developer (ReactJS)",
+    "jobLocation": "Hồ Chí Minh",
+    "jobType": "part-time",
+    "status": "pending",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-09-16T04:08:17Z"
+  },
+  {
+    "company": "Chubb Life Vietnam",
+    "position": "Head Office",
+    "jobLocation": "Hà Nội",
+    "jobType": "remote",
+    "status": "declined",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-09-17T04:49:26Z"
+  },
+  {
+    "company": "Talent Success",
+    "position": "Java Software Engineer",
+    "jobLocation": "Đà Nẵng",
+    "jobType": "part-time",
+    "status": "declined",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-10-13T03:16:24Z"
+  },
+  {
+    "company": "One Mount Group",
+    "position": "Backend Developer (.Net core)",
+    "jobLocation": "Hà Nội",
+    "jobType": "part-time",
+    "status": "interview",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-01-10T01:33:57Z"
+  },
+  {
+    "company": "Public Bank Vietnam (PBVN)",
+    "position": "Senior QC",
+    "jobLocation": "Đà Nẵng",
+    "jobType": "full-time",
+    "status": "interview",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-08-05T19:28:42Z"
+  },
+  {
+    "company": "Cloud Nine Solutions",
+    "position": "Full-stack Developer",
+    "jobLocation": "Đà Nẵng",
+    "jobType": "internship",
+    "status": "pending",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-01-05T04:00:34Z"
+  },
+  {
+    "company": "Chubb Life Vietnam",
+    "position": "MOBILE DEVELOPER",
+    "jobLocation": "Đà Nẵng",
+    "jobType": "internship",
+    "status": "declined",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-09-24T23:11:01Z"
+  },
+  {
+    "company": "Cloud Nine Solutions",
+    "position": "Specialist/ Supervisor",
+    "jobLocation": "Đà Nẵng",
+    "jobType": "full-time",
+    "status": "interview",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-03-10T03:49:45Z"
+  },
+  {
+    "company": "NGÂN HÀNG Á CHÂU (ACB)",
+    "position": "Senior Bridge Software Engineer",
+    "jobLocation": "Hà Nội",
+    "jobType": "remote",
+    "status": "declined",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-01-01T20:57:35Z"
+  },
+  {
+    "company": "Public Bank Vietnam (PBVN)",
+    "position": "Backend Developer (.Net core)",
+    "jobLocation": "Đà Nẵng",
+    "jobType": "remote",
+    "status": "pending",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-04-13T15:54:21Z"
+  },
+  {
+    "company": "One Mount Group",
+    "position": "Backend Developer (.Net core)",
+    "jobLocation": "Đà Nẵng",
+    "jobType": "remote",
+    "status": "declined",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-02-21T05:04:37Z"
+  },
+  {
+    "company": "Ngân hàng TMCP Hàng Hải Việt Nam (MSB)",
+    "position": "MOBILE DEVELOPER",
+    "jobLocation": "Đà Nẵng",
+    "jobType": "full-time",
+    "status": "pending",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-11-20T07:38:20Z"
+  },
+  {
+    "company": "Red Star Technology",
+    "position": "IT - Network Solution Architect",
+    "jobLocation": "Đà Nẵng",
+    "jobType": "remote",
+    "status": "interview",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-01-15T16:00:38Z"
+  },
+  {
+    "company": "HEINEKEN Vietnam",
+    "position": "Senior Software Developer (Java)",
+    "jobLocation": "Hồ Chí Minh",
+    "jobType": "full-time",
+    "status": "declined",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-10-03T12:50:59Z"
+  },
+  {
+    "company": "One Mount Group",
+    "position": "IT - Security Architect",
+    "jobLocation": "Hà Nội",
+    "jobType": "part-time",
+    "status": "declined",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-07-07T19:22:45Z"
+  },
+  {
+    "company": "Public Bank Vietnam (PBVN)",
+    "position": "Senior Software Developer (Java)",
+    "jobLocation": "Hồ Chí Minh",
+    "jobType": "part-time",
+    "status": "pending",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-05-07T22:56:24Z"
+  },
+  {
+    "company": "Allexceed Việt Nam",
+    "position": "IT - Senior Project Manager",
+    "jobLocation": "Hồ Chí Minh",
+    "jobType": "internship",
+    "status": "pending",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-03-28T08:33:12Z"
+  },
+  {
+    "company": "CÔNG TY TNHH POSCO DX VIỆT NAM",
+    "position": "IT - DevOps Engineer",
+    "jobLocation": "Đà Nẵng",
+    "jobType": "part-time",
+    "status": "pending",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-06-10T22:35:59Z"
+  },
+  {
+    "company": "Ngân hàng TMCP Hàng Hải Việt Nam (MSB)",
+    "position": "MOBILE DEVELOPER",
+    "jobLocation": "Hà Nội",
+    "jobType": "part-time",
+    "status": "pending",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-07-06T05:16:20Z"
+  },
+  {
+    "company": "CÔNG TY CỔ PHẦN CYFEER",
+    "position": "IT - Network Solution Architect",
+    "jobLocation": "Hồ Chí Minh",
+    "jobType": "remote",
+    "status": "interview",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-11-30T09:32:17Z"
+  },
+  {
+    "company": "DEK TECHNOLOGIES",
+    "position": "IT - Security Architect",
+    "jobLocation": "Hồ Chí Minh",
+    "jobType": "remote",
+    "status": "pending",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-04-18T00:48:39Z"
+  },
+  {
+    "company": "Ngân hàng TMCP Hàng Hải Việt Nam (MSB)",
+    "position": "HO - Data Lake Developer",
+    "jobLocation": "Đà Nẵng",
+    "jobType": "remote",
+    "status": "pending",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-09-19T16:57:28Z"
+  },
+  {
+    "company": "Chubb Life Vietnam",
+    "position": "Senior Bridge Software Engineer",
+    "jobLocation": "Đà Nẵng",
+    "jobType": "remote",
+    "status": "interview",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-03-13T06:32:33Z"
+  },
+  {
+    "company": "Cloud Nine Solutions",
+    "position": "Head Office",
+    "jobLocation": "Hồ Chí Minh",
+    "jobType": "part-time",
+    "status": "pending",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2024-02-03T16:52:08Z"
+  },
+  {
+    "company": "CÔNG TY CỔ PHẦN CYFEER",
+    "position": "Java Software Engineer",
+    "jobLocation": "Đà Nẵng",
+    "jobType": "internship",
+    "status": "pending",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-09-19T15:35:37Z"
+  },
+  {
+    "company": "Chubb Life Vietnam",
+    "position": "MOBILE DEVELOPER",
+    "jobLocation": "Hồ Chí Minh",
+    "jobType": "full-time",
+    "status": "interview",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-03-07T15:20:46Z"
+  },
+  {
+    "company": "HEINEKEN Vietnam",
+    "position": "Java Software Engineer",
+    "jobLocation": "Hà Nội",
+    "jobType": "remote",
+    "status": "pending",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-08-27T10:29:23Z"
+  },
+  {
+    "company": "CÔNG TY CỔ PHẦN CYFEER",
+    "position": "Senior Bridge Software Engineer",
+    "jobLocation": "Hà Nội",
+    "jobType": "internship",
+    "status": "pending",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-11-30T01:52:06Z"
+  },
+  {
+    "company": "Talent Success",
+    "position": "Head Office",
+    "jobLocation": "Hà Nội",
+    "jobType": "internship",
+    "status": "interview",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-06-30T08:59:13Z"
+  },
+  {
+    "company": "Public Bank Vietnam (PBVN)",
+    "position": "Senior Java Developers",
+    "jobLocation": "Hồ Chí Minh",
+    "jobType": "part-time",
+    "status": "interview",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-09-14T18:26:19Z"
+  },
+  {
+    "company": "Ngân hàng TMCP Hàng Hải Việt Nam (MSB)",
+    "position": "IT - Senior Project Manager",
+    "jobLocation": "Hà Nội",
+    "jobType": "part-time",
+    "status": "declined",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-11-19T13:39:38Z"
+  },
+  {
+    "company": "DEK TECHNOLOGIES",
+    "position": "Head of Development",
+    "jobLocation": "Hà Nội",
+    "jobType": "remote",
+    "status": "pending",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-09-14T02:51:53Z"
+  },
+  {
+    "company": "Chubb Life Vietnam",
+    "position": "IT Department",
+    "jobLocation": "Hà Nội",
+    "jobType": "remote",
+    "status": "declined",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-07-20T15:31:07Z"
+  },
+  {
+    "company": "Public Bank Vietnam (PBVN)",
+    "position": "IT Department",
+    "jobLocation": "Hà Nội",
+    "jobType": "internship",
+    "status": "declined",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2024-02-14T15:12:43Z"
+  },
+  {
+    "company": "CÔNG TY TNHH POSCO DX VIỆT NAM",
+    "position": "HO - Data Lake Developer",
+    "jobLocation": "Hồ Chí Minh",
+    "jobType": "part-time",
+    "status": "interview",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-04-23T00:48:04Z"
+  },
+  {
+    "company": "Red Star Technology",
+    "position": "HO - Data Lake Developer",
+    "jobLocation": "Hồ Chí Minh",
+    "jobType": "part-time",
+    "status": "declined",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-11-05T06:09:56Z"
+  },
+  {
+    "company": "CÔNG TY TNHH POSCO DX VIỆT NAM",
+    "position": "Backend Developer (.Net core)",
+    "jobLocation": "Đà Nẵng",
+    "jobType": "full-time",
+    "status": "interview",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-05-25T12:35:32Z"
+  },
+  {
+    "company": "Public Bank Vietnam (PBVN)",
+    "position": "IT - DevOps Engineer",
+    "jobLocation": "Hà Nội",
+    "jobType": "full-time",
+    "status": "declined",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-12-11T07:05:33Z"
+  },
+  {
+    "company": "Public Bank Vietnam (PBVN)",
+    "position": "IT - Security Architect",
+    "jobLocation": "Hà Nội",
+    "jobType": "remote",
+    "status": "declined",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-03-10T23:54:10Z"
+  },
+  {
+    "company": "Public Bank Vietnam (PBVN)",
+    "position": "IT - Security Architect",
+    "jobLocation": "Đà Nẵng",
+    "jobType": "remote",
+    "status": "pending",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-01-09T17:28:01Z"
+  },
+  {
+    "company": "Red Star Technology",
+    "position": "Senior Software Developer (Java)",
+    "jobLocation": "Hồ Chí Minh",
+    "jobType": "internship",
+    "status": "pending",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-09-11T07:44:15Z"
+  },
+  {
+    "company": "Cloud Nine Solutions",
+    "position": "Senior QC",
+    "jobLocation": "Hồ Chí Minh",
+    "jobType": "part-time",
+    "status": "interview",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-03-20T01:00:57Z"
+  },
+  {
+    "company": "Allexceed Việt Nam",
+    "position": "Full-stack Developer",
+    "jobLocation": "Hồ Chí Minh",
+    "jobType": "internship",
+    "status": "declined",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2024-01-16T00:53:52Z"
+  },
+  {
+    "company": "CÔNG TY TNHH POSCO DX VIỆT NAM",
+    "position": "Head of Development",
+    "jobLocation": "Đà Nẵng",
+    "jobType": "part-time",
+    "status": "declined",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-12-13T19:27:39Z"
+  },
+  {
+    "company": "Red Star Technology",
+    "position": "Head Office",
+    "jobLocation": "Hà Nội",
+    "jobType": "internship",
+    "status": "declined",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-11-11T11:00:01Z"
+  },
+  {
+    "company": "One Mount Group",
+    "position": "Senior Software Developer (Java)",
+    "jobLocation": "Hà Nội",
+    "jobType": "full-time",
+    "status": "pending",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-01-04T09:23:19Z"
+  },
+  {
+    "company": "One Mount Group",
+    "position": "Java Software Engineer",
+    "jobLocation": "Hà Nội",
+    "jobType": "part-time",
+    "status": "pending",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-05-27T13:41:04Z"
+  },
+  {
+    "company": "HEINEKEN Vietnam",
+    "position": "Senior Java Developers",
+    "jobLocation": "Đà Nẵng",
+    "jobType": "full-time",
+    "status": "interview",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-07-09T22:54:28Z"
+  },
+  {
+    "company": "Ngân hàng TMCP Hàng Hải Việt Nam (MSB)",
+    "position": "IT - Security Architect",
+    "jobLocation": "Đà Nẵng",
+    "jobType": "remote",
+    "status": "interview",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-03-01T07:45:04Z"
+  },
+  {
+    "company": "NGÂN HÀNG Á CHÂU (ACB)",
+    "position": "Senior Bridge Software Engineer",
+    "jobLocation": "Đà Nẵng",
+    "jobType": "full-time",
+    "status": "declined",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-09-01T01:01:18Z"
+  },
+  {
+    "company": "Chubb Life Vietnam",
+    "position": "Head Office",
+    "jobLocation": "Đà Nẵng",
+    "jobType": "full-time",
+    "status": "declined",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2024-03-12T07:52:09Z"
+  },
+  {
+    "company": "CÔNG TY CỔ PHẦN CYFEER",
+    "position": "Java Software Engineer",
+    "jobLocation": "Hồ Chí Minh",
+    "jobType": "part-time",
+    "status": "pending",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-08-03T21:51:53Z"
+  },
+  {
+    "company": "CÔNG TY CỔ PHẦN CYFEER",
+    "position": "Senior Software Developer (Java)",
+    "jobLocation": "Hà Nội",
+    "jobType": "full-time",
+    "status": "interview",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-09-05T03:57:19Z"
+  },
+  {
+    "company": "Chubb Life Vietnam",
+    "position": "Senior Bridge Software Engineer",
+    "jobLocation": "Hà Nội",
+    "jobType": "remote",
+    "status": "pending",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2024-03-07T04:22:05Z"
+  },
+  {
+    "company": "CÔNG TY CỔ PHẦN CYFEER",
+    "position": "MOBILE DEVELOPER",
+    "jobLocation": "Hà Nội",
+    "jobType": "internship",
+    "status": "declined",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2024-03-01T21:32:08Z"
+  },
+  {
+    "company": "Chubb Life Vietnam",
+    "position": "Senior Java Developers",
+    "jobLocation": "Hà Nội",
+    "jobType": "remote",
+    "status": "pending",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-12-01T08:35:07Z"
+  },
+  {
+    "company": "DEK TECHNOLOGIES",
+    "position": "MOBILE DEVELOPER",
+    "jobLocation": "Hà Nội",
+    "jobType": "internship",
+    "status": "interview",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2024-01-06T17:23:02Z"
+  },
+  {
+    "company": "NGÂN HÀNG Á CHÂU (ACB)",
+    "position": "IT - DevOps Engineer",
+    "jobLocation": "Hồ Chí Minh",
+    "jobType": "remote",
+    "status": "pending",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-04-10T16:26:36Z"
+  },
+  {
+    "company": "Public Bank Vietnam (PBVN)",
+    "position": "Full-stack Developer",
+    "jobLocation": "Đà Nẵng",
+    "jobType": "part-time",
+    "status": "declined",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2024-02-13T20:10:55Z"
+  },
+  {
+    "company": "Cloud Nine Solutions",
+    "position": "IT Department",
+    "jobLocation": "Đà Nẵng",
+    "jobType": "part-time",
+    "status": "pending",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-01-24T15:44:33Z"
+  },
+  {
+    "company": "Public Bank Vietnam (PBVN)",
+    "position": "Backend Developer (.Net core)",
+    "jobLocation": "Hồ Chí Minh",
+    "jobType": "remote",
+    "status": "interview",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-01-08T04:26:23Z"
+  },
+  {
+    "company": "HEINEKEN Vietnam",
+    "position": "HO - Data Lake Developer",
+    "jobLocation": "Hà Nội",
+    "jobType": "full-time",
+    "status": "declined",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-01-07T00:51:34Z"
+  },
+  {
+    "company": "HEINEKEN Vietnam",
+    "position": "Full-stack Developer",
+    "jobLocation": "Hồ Chí Minh",
+    "jobType": "remote",
+    "status": "pending",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2024-02-15T17:32:36Z"
+  },
+  {
+    "company": "CÔNG TY TNHH POSCO DX VIỆT NAM",
+    "position": "HO - Data Lake Developer",
+    "jobLocation": "Hồ Chí Minh",
+    "jobType": "full-time",
+    "status": "pending",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-12-06T18:26:12Z"
+  },
+  {
+    "company": "Public Bank Vietnam (PBVN)",
+    "position": "IT - Security Architect",
+    "jobLocation": "Hà Nội",
+    "jobType": "full-time",
+    "status": "interview",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-05-28T00:23:18Z"
+  },
+  {
+    "company": "CÔNG TY TNHH POSCO DX VIỆT NAM",
+    "position": "[Middle/Senior] Automation Tester",
+    "jobLocation": "Đà Nẵng",
+    "jobType": "full-time",
+    "status": "declined",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-04-24T11:06:03Z"
+  },
+  {
+    "company": "Ngân hàng TMCP Hàng Hải Việt Nam (MSB)",
+    "position": "Senior Software Developer (Java)",
+    "jobLocation": "Hồ Chí Minh",
+    "jobType": "part-time",
+    "status": "declined",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-06-23T06:08:15Z"
+  },
+  {
+    "company": "Red Star Technology",
+    "position": "IT - DevOps Engineer",
+    "jobLocation": "Hồ Chí Minh",
+    "jobType": "full-time",
+    "status": "interview",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-05-03T07:39:15Z"
+  },
+  {
+    "company": "DEK TECHNOLOGIES",
+    "position": "Senior Software Developer (Java)",
+    "jobLocation": "Hà Nội",
+    "jobType": "remote",
+    "status": "interview",
+    "createdBy": "660d612cda447d7d5b5b84b4",
+    "createdAt": "2023-04-30T15:17:08Z"
+  }
+]
